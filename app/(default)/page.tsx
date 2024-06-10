@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Simple',
-  description: 'Page description',
+  title: 'Innovative Soft Skill Assessment with AI & Blockchain',
+  description: 'Revolutionizing the evaluation of soft skills using advanced AI and secure blockchain technology.',
 }
 
 import Hero from '@/components/hero'
